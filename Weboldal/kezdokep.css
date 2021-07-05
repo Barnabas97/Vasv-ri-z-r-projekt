@@ -1,0 +1,46 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.első{
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  background: url(kezdőkép.jpg) no-repeat 50% 50%;
+  top: 0;
+  display: table;
+  background-size: cover;
+}
+.első .kezdő{
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  max-width: none;
+}
+.content{
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+.content h1{
+  font-family: 'Century Gothic',sans-serif;
+  color: #f9f3f4;
+  font-size: 10vh;
+  text-shadow: 0 0 300px #000;
+  text-align: center;
+}
+.content .btn{
+  border-radius: 9px;
+  color: #f9f3f4;
+  text-decoration: none;
+  font-family: 'Century Gothic',sans-serif;
+  border: 4px solid;
+  padding: 7px 13px;
+  font-weight: bold;
+  font-size: 3vh;
+}
+.content .btn:hover{
+  color: #2196f3;
+}

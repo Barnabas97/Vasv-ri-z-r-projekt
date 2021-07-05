@@ -1,0 +1,33 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.első{
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  background: url(solarsystem.png) no-repeat 50% 50%;
+  top: 0;
+  display: table;
+  background-size: cover;
+}
+
+p{
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-family: 'Century Gothic',sans-serif;
+  color: white;
+
+}
+
+h1{
+  font-family: 'Century Gothic',sans-serif;
+  color: white;
+}
+
+#kep{
+  opacity: 0.8;
+}

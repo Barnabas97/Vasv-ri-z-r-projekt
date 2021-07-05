@@ -1,0 +1,51 @@
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe.config
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\bin\Debug\VendégGridview.pdb
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\bin\Debug\MySql.Data.dll
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\bin\Debug\MySql.Data.xml
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csprojAssemblyReference.cache
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Form1.resources
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Properties.Resources.resources
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.GenerateResource.cache
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.CoreCompileInputs.cache
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.CopyComplete
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\VendégGridview.exe
+C:\Users\sz7judbar\Source\Repos\TDDListview\VendégGridview\VendégGridview\obj\Debug\VendégGridview.pdb
+J:\C#\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe.config
+J:\C#\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe
+J:\C#\VendégGridview\VendégGridview\bin\Debug\VendégGridview.pdb
+J:\C#\VendégGridview\VendégGridview\bin\Debug\MySql.Data.dll
+J:\C#\VendégGridview\VendégGridview\bin\Debug\MySql.Data.xml
+J:\C#\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csprojAssemblyReference.cache
+J:\C#\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Form1.resources
+J:\C#\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Properties.Resources.resources
+J:\C#\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.GenerateResource.cache
+J:\C#\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.CoreCompileInputs.cache
+J:\C#\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.CopyComplete
+J:\C#\VendégGridview\VendégGridview\obj\Debug\VendégGridview.exe
+J:\C#\VendégGridview\VendégGridview\obj\Debug\VendégGridview.pdb
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe.config
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\bin\Debug\VendégGridview.pdb
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\bin\Debug\MySql.Data.xml
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csprojResolveAssemblyReference.cache
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Form1.resources
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Properties.Resources.resources
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.GenerateResource.Cache
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.CoreCompileInputs.cache
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\obj\Debug\VendégGridview.exe
+D:\Downloads\C# gyakorlás ()VS)\VendégGridview\VendégGridview\obj\Debug\VendégGridview.pdb
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe.config
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\bin\Debug\VendégGridview.exe
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\bin\Debug\VendégGridview.pdb
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\bin\Debug\MySql.Data.xml
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csprojAssemblyReference.cache
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Form1.resources
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Properties.Resources.resources
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.GenerateResource.cache
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\CsillagaszGridview.csproj.CopyComplete
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\VendégGridview.exe
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\VendégGridview.pdb
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Tesztform.resources
+C:\Users\Noel\Desktop\VendégGridview\VendégGridview\obj\Debug\VendégGridview.Teszt2.resources

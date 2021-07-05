@@ -1,0 +1,72 @@
+body{
+  background-image: url(regisztációskép.jpg);
+  background-repeat: no-repeat;
+  background-size: 200vh;
+}
+
+.regisztrációsform{
+  text-align: center;
+  margin: 100px 400px;
+}
+
+#regisztrálás{
+  width: 100%;
+  background-color: #051019;
+  opacity: 0.7;
+  padding: 50px 0px;
+}
+
+#button{
+  width: 250px;
+  padding: 10px;
+  border-radius: 5px;
+  outline: 0px;
+}
+
+#hónap{
+  width: 100px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#nap{
+  width: 100px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn{
+  border-radius: 9px;
+  color: #f9f3f4;
+  text-decoration: none;
+  font-family: 'Century Gothic',sans-serif;
+  border: 3px solid;
+  padding: 7px 13px;
+  font-weight: bold;
+  font-size: 3vh;
+}
+
+.btn:hover{
+  color: #456742;
+}
+
+#but{
+  color: white;
+  font-size: 18px;
+}
+
+.erdeklodes{
+	color: #f9f3f4;
+  text-decoration: none;
+  font-family: 'Century Gothic',sans-serif;
+  padding: 7px 13px;
+  font-weight: bold;
+  font-size: 3vh;
+}
+
+
+
+.error{
+color: #ffffff;
+
+}

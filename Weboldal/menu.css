@@ -1,0 +1,109 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: url('urhatter.jpg') no-repeat 50% 50%;
+  background-size: cover;
+  }                      
+
+.dropdown{
+	position: relative;
+	display: inline;
+}
+
+.dropdown-item{
+	color : purple;
+}
+
+.első{
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  
+  top: 0;
+  display: table;
+  
+}
+
+.első .kezdő{
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  max-width: none;
+}
+.content{
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+.content h1{
+  font-family: 'Century Gothic',sans-serif;
+  color: #f9f3f4;
+  font-size: 10vh;
+  text-shadow: 0 0 300px #000;
+  text-align: center;
+}
+
+ul {
+ margin: auto;
+ padding: 0px;
+ list-style: none;
+ font-family: sans-serif;
+}
+
+ul li {
+ float: left;
+ width: 39.21568627450981vh;
+ height: 4vh;
+ background-color: black;
+ opacity: .8;
+ line-height: 40px;
+ text-align: center;
+ font-size: 20px;
+}
+
+ul li a {
+ text-decoration: none;
+ color: white;
+ display: block;
+}
+
+ul li a:hover {
+ background-color: lightblue;
+}
+
+ul li ul li{
+ display: none;
+}
+
+ul li:hover ul li {
+ display: block;
+}
+
+h1 a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+h1 a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+h1 a:hover {
+  color: gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+h1 a:active {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+}

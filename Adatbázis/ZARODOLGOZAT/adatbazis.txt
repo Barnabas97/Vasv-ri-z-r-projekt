@@ -1,0 +1,5 @@
+10.0.128.111/phpmyadmin
+DATABASE: zarodolgozat_2018judbar
+USER: zarodolgozat
+PASSWORD: zarodolgozat
+PORT: 3306
